@@ -5,7 +5,7 @@
         >환영합니다.{{ this.$store.state.userId }}님.</span
       >
       <span class="headersubject" v-if="!userId"
-        >아직 서비스를 이용할 수 없습니다. 로그인 먼저해주세요.</span
+        >아직 서비스를 이용할 수 없ㅇㅇ습니다. 로그인 먼저해주세요.</span
       >
     </div>
   </div>
