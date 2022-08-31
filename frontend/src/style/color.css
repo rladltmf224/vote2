@@ -1,0 +1,17 @@
+:root{
+    padding: 0;
+    margin: 0;
+
+    --my-grey:rgb(208, 208, 208);  /* 회색 */
+    --my-light-pink:  rgb(255, 190, 202);/* 연분홍색 */
+    --my-dark-pink:#ff768d;/* 진분홍색 */
+    --my-white: #ffffff;/* 흰색 */
+
+
+    --color-header:var(--my-light-pink);
+    --color-sideTop:var(--my-dark-pink);
+    --color-grey:var(--my-grey);
+
+
+
+}
