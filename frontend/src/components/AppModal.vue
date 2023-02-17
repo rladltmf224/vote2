@@ -2,6 +2,7 @@
     <div class="all">
         <button @click="open()">모달창띄우기</button>
         <button @click="open()">브랜치테스트(진지)</button>
+        <button @click="open()">테스트3브랜치입니다.</button>
 
         <div id="modal" class="modal-overlay">
             <div class="modal-window">
