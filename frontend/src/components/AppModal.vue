@@ -1,7 +1,7 @@
 <template>
     <div class="all">
         <button @click="open()">모달창띄우기</button>
-        <button @click="open()">브랜치테스트브랜치테스트브ㅇㅇㅇ랜치테스트브랜치테스트브랜치테스트</button>
+        <button @click="open()">브랜치테스트(진지)</button>
 
         <div id="modal" class="modal-overlay">
             <div class="modal-window">
